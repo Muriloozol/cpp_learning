@@ -1,4 +1,4 @@
 #!/bin/bash
 clear
-g++ -o compiled aula.cpp
+g++ -o compiled *.cpp
 time ./compiled
